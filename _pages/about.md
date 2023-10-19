@@ -1,3 +1,10 @@
+---
+title: "yongss Devlog"
+permalink: /about/
+layout: single
+comments: false
+---
+
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I'm%20YongHwan%20Bang👋&fontSize=55&fontAlignY=25&color=timeGradient&height=160)
 
 ### Contact Information 📞
