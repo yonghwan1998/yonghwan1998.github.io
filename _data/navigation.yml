@@ -25,10 +25,10 @@ categories:
 
   - title: "Algorithm"
     children:
-    - title: "Python"
-      url: /categories/Python/
-    - title: "OracleDB"
-      url: /categories/OracleDB/
+    - title: "Coding"
+      url: /categories/Coding/
+    - title: "SQL"
+      url: /categories/SQL/
 
   - title: "etc"
     children:
