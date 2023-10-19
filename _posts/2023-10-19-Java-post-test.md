@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /Java/Java-post-test/
+permalink: /Java/post-test/
 
 toc: true
 toc_sticky: true
