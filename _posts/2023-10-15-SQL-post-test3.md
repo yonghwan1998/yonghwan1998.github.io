@@ -1,13 +1,13 @@
 ---
-title: "OracleDB 테스트용 첫 번째 포스팅"
-excerpt: "OracleDB에 관련된 내용"
+title: "SQL 테스트용 첫 번째 포스팅"
+excerpt: "SQL 관련된 내용"
 
 categories:
-  - OracleDB
+  - SQL
 tags:
   - [tag1, tag2]
 
-permalink: /OracleDB/post-test3/
+permalink: /SQL/post-test3/
 
 toc: true
 toc_sticky: true
