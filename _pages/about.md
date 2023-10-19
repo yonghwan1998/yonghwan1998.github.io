@@ -1,11 +1,3 @@
----
-title: "Hi all! I'm OOOOOO👋🏻"
-permalink: /about/
-layout: single
-comments: false
----
-
-본인 소개 여기에 입력
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I'm%20YongHwan%20Bang👋&fontSize=55&fontAlignY=25&color=timeGradient&height=160)
 
 ### Contact Information 📞
