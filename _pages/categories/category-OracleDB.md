@@ -1,9 +1,9 @@
 ---
-title: "Oracle"
+title: "OracleDB"
 layout: category
-permalink: /categories/Oracle/
+permalink: /categories/OracleDB/
 author_profile: true
-taxonomy: Oracle
+taxonomy: OracleDB
 sidebar:
   nav: "categories"
 ---
