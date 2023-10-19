@@ -22,10 +22,18 @@ categories:
     children:
     - title: "Java"
       url: /categories/Java/
-      
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+
+  - title: "Algorithm"
+    children:
+    - title: "Python"
+      url: /categories/Python/
+    - title: "OracleDB"
+      url: /categories/OracleDB/
+
+  - title: "etc"
+    children:
+    - title: "CS"
+      url: /categories/CS/
+    - title: "OKKY"
+      url: /categories/OKKY/
+
