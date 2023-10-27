@@ -18,4 +18,4 @@ last_modified_at: 2023-10-27
 
 ## 🦥 본문
 
-[spring MVC 패턴 게시판]([링크](https://okky.kr/articles/1471332)https://okky.kr/articles/1471332)
+### [spring MVC 패턴 게시판 만들기 순서](https://okky.kr/articles/1471332)
