@@ -25,3 +25,4 @@ last_modified_at: 2023-10-27
 ### [개발자 진로에 관하여](https://okky.kr/articles/1471489)
 ### [좋은 포폴 예시](https://okky.kr/articles/1473773)
 ### [주니어 개발자가 오해하는 것](https://okky.kr/articles/1473798)
+### [SI 업체 선택시 고려사항](https://okky.kr/articles/1474623)
