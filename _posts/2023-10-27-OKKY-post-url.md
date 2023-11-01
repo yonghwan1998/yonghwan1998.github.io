@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2023-10-27
-last_modified_at: 2023-10-27
+last_modified_at: 2023-11-01
 ---
 
 ## [OKKY](https://okky.kr/)
@@ -26,3 +26,4 @@ last_modified_at: 2023-10-27
 ### [좋은 포폴 예시](https://okky.kr/articles/1473773)
 ### [주니어 개발자가 오해하는 것](https://okky.kr/articles/1473798)
 ### [SI 업체 선택시 고려사항](https://okky.kr/articles/1474623)
+### [SQL 무료 e북](https://okky.kr/articles/1475047)
