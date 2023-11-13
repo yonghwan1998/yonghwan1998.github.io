@@ -28,3 +28,4 @@ last_modified_at: 2023-11-10
 ### [SI 업체 선택시 고려사항](https://okky.kr/articles/1474623)
 ### [SQL 무료 e북](https://okky.kr/articles/1475047)
 ### [Notion용 아이콘 모음] (https://okky.kr/questions/621580)
+### [CS지식 학습법] (https://okky.kr/articles/1476614)
