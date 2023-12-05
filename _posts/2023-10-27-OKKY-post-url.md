@@ -30,3 +30,4 @@ last_modified_at: 2023-11-10
 ### [Notion용 아이콘 모음](https://okky.kr/questions/621580)
 ### [CS지식 학습법](https://okky.kr/articles/1476614)
 ### [외주 업체가 주는 산출물](https://okky.kr/articles/1479809)
+### [이력서 팁](https://okky.kr/articles/842696)
